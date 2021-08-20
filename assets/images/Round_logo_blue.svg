@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Export/Round_logo_blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="96" cy="96" r="88"></circle>
+        <linearGradient x1="5.38136152%" y1="9.90889517%" x2="94.6162716%" y2="90.0892819%" id="linearGradient-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="50.2152423%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.1345291%" y1="100.038104%" x2="78.9013453%" y2="0.0156897904%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#4A6E80" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.9443768%" y1="78.1220575%" x2="60.0483338%" y2="21.8724778%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="15%"></stop>
+            <stop stop-color="#4A6E80" offset="70%"></stop>
+            <stop stop-color="#4A6E80" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9966357%" y1="-0.00840712925%" x2="49.9966357%" y2="100.001401%" id="linearGradient-6">
+            <stop stop-color="#4A6E80" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Export/Round_logo_blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="circle" fill="#004472" xlink:href="#path-1"></use>
+        <polygon id="Shadow" fill-opacity="0.7" fill="url(#linearGradient-3)" opacity="0.2" mask="url(#mask-2)" points="117 192 50 124 50 55 142 55 203 116 203 191"></polygon>
+        <g id="Logo" mask="url(#mask-2)">
+            <g transform="translate(50.000000, 55.000000)">
+                <path d="M0,0 L92,0 L92,68.9893003 L78,68.9944568 L55,92 L55,69.0021915 L0,69.0021915 L0,0 Z M64.4562566,59.3157895 L82.9210526,59.3085782 L82.9210526,21.186786 L46.0038816,36.3407264 L9.07894737,21.1842105 L9.07894737,59.3157895 L64.4557391,59.3157895 L64.4562566,59.3157895 Z" id="Logo" fill="#FFFFFF"></path>
+                <polygon id="Tail" fill="url(#linearGradient-4)" opacity="0.4" points="55 69 55 92 78 69"></polygon>
+                <polygon id="Tail_Shadow" fill="#4A6E80" opacity="0.2" points="55 69 55 92 78 69"></polygon>
+                <path d="M0,0 L92,0 L92,69 L78.0789474,69 L55.0789474,69 L0,69 L0,0 Z M64.1578947,59.3157895 L82.9210526,59.3157895 L82.9210526,21.1842105 L46,36.3157895 L9.07894737,21.1842105 L9.07894737,59.3157895 L64.1578947,59.3157895 L64.1578947,59.3157895 Z" id="Body_Shadow" fill="url(#linearGradient-5)" opacity="0.5"></path>
+                <polygon id="Top" fill="#FFFFFF" points="0 17.5526316 46 36.3157895 92 17.5526316 92 0 0 0"></polygon>
+                <polygon id="Top_Shadow" fill="url(#linearGradient-6)" opacity="0.2" points="0 17.5526316 46 36.3157895 92 17.5526316 92 0 0 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
